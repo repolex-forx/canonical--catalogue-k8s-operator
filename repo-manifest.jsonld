@@ -8,8 +8,9 @@
     {
       "@id": "https://repolex.ai/r/canonical/catalogue-k8s-operator/commit/86343dfa48ee5adb8052b5281fa04e40c8620d6e",
       "git:hexsha": "86343dfa48ee5adb8052b5281fa04e40c8620d6e",
-      "repolex:parseStatus": "ast_complete",
-      "git:tagName": "rev158"
+      "repolex:parseStatus": "parsed",
+      "git:tagName": "rev158",
+      "repolex:parsedAt": "2026-11-08T15:23:22.902519+00:00"
     },
     {
       "@id": "https://repolex.ai/r/canonical/catalogue-k8s-operator/commit/037d6c41652be34615142f4c167a26b231dd7628",
