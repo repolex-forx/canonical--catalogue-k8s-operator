@@ -1,0 +1,11 @@
+{
+  "org": "canonical",
+  "repo": "catalogue-k8s-operator",
+  "versions": [
+    {
+      "commit": "86343dfa48ee5adb8052b5281fa04e40c8620d6e",
+      "tag": "rev158",
+      "parsed_at": "2026-11-08T15:23:22.949930+00:00"
+    }
+  ]
+}
